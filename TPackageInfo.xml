@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageGUI>
+	<Item In="B.背包" Name="ui_bag" Out="Backpack"/>
+	<Item In="B.背框" Name="ui_pop" Out="_Common"/>
+	<Item In="B.标题" Name="ui_title" Out="_Common"/>
+	<Item In="D.登录" Name="ui_login1" Out="Login"/>
+	<Item In="D.登录" Name="ui_login2" Out="Login"/>
+	<Item In="J.角色" Name="ui_roleHead" Out="PlayerInfo"/>
+	<Item In="J.剧情" Name="ui_plot" Out="Plot"/>
+	<Item In="K.卡牌" Name="ui_Role" Out="RoleCards"/>
+	<Item In="P.排行榜" Name="ui_rank" Out="Rank"/>
+	<Item In="T.通用" Name="ui_common" Out="_Common"/>
+	<Item In="T.通用" Name="ui_itemgrade" Out="_Common"/>
+	<Item In="T.通用" Name="ui_rolegrade" Out="_Common"/>
+	<Item In="T.通用" Name="ui_headicon" Out="_Common"/>
+	<Item In="T.通用" Name="ui_skill" Out="_Common"/>
+	<Item In="T.图标" Name="ui_itemicon" Out="_Common"/>
+	<Item In="T.图标" Name="ui_moduleicon" Out="_Common"/>
+	<Item In="Z.战斗" Name="ui_fight1" Out="Fight"/>
+	<Item In="Z.战斗" Name="ui_fight2" Out="Fight"/>
+	<Item In="Z.战斗" Name="ui_fight3" Out="Fight"/>
+	<Item In="Y.邮箱" Name="ui_mail" Out="Mail"/>
+</PackageGUI>
